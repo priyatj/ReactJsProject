@@ -10,6 +10,7 @@ Installations:
   cd NewProject
   npm start
 3. Install dependencies:
+npm install react-native-table-component
 
   
 Install Expo Cli app on phone. 
